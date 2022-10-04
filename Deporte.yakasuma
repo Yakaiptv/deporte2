@@ -1,6 +1,50 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | USA 4K SPORT", USA | NBA
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/191875
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/NBATV.png" group-title="US | USA 4K SPORT", USA | NBA 
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/19852
+
+
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/BEIN/BEINSPORTS.png" group-title="UK | 4K SPORTS", UK | BEIN SPORTS 1
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/190196
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/BEIN/BEINSPORTS.png" group-title="UK | 4K SPORTS", UK | BEIN SPORTS 2
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/190197
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/BEIN/BEINSPORTS.png" group-title="UK | 4K SPORTS", UK | BEIN SPORTS 2
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/201075
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/BEIN/BEINSPORTS.png" group-title="UK | 4K SPORTS", UK | BEIN SPORTS 3
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/190198
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/BEIN/BEINSPORTS.png" group-title="UK | 4K SPORTS", UK | BEIN SPORTS USA
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/201088
+
+
+
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K+ NEDERLAND", 8K | ESPN ULTRA
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/212390
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K+ NEDERLAND", 8K | ESPN 1
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/147676
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K+ NEDERLAND", 8K | ESPN 2
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/147677
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K+ NEDERLAND", 8K | ESPN 3
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/169253
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/ESPN.png" group-title="NL | 8K+ NEDERLAND", 8K | ESPN 4
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/147678
+
+
+
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/USA/UFC.png" group-title="UFC & MMA & PPV", UFC | UFC LIVE
 http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/17819
 
