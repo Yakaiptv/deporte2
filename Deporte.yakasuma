@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:-1,DirecTV Sports PR  group-title="liga  | 4K SPORT", 4K |
+#EXTINF:-1,DirecTV 
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1,Claro Sports  group-title="peleas y mas| 4K SPORT", 4K |
+#EXTINF:-1,Claro Sports 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1,Canal 11 Internacional | PT
@@ -26,7 +26,7 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1,Tennis Channel | US
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Tennis Channel | US  group-title="TENIS | 4K SPORT", 4K |
+#EXTINF:-1,Tennis Channel | US 
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1,ONE GOLF | US
