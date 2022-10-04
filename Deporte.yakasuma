@@ -2,6 +2,39 @@
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/flags/germany.png" group-title="DE | 4K SPORT", 4K | ## TELEKOM SP?RT ##
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/180810
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/telekom.png" group-title="DE | 4K SPORT", 4K | TELEKOM BASKETBALL (BBL) 2
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/123965
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/telekom.png" group-title="DE | 4K SPORT", 4K | TELEKOM BASKETBALL (BBL) 3
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/123966
+
+
+
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/DAZN.png" group-title="DE | HD GERMANY", DE | DAZN BAR 1 HD
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/186662
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/DAZN.png" group-title="DE | HD GERMANY", DE | DAZN BAR 1
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/2937
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/DAZN.png" group-title="DE | HD GERMANY", DE | DAZN BAR 2 UHD+
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/186667
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/DAZN.png" group-title="DE | HD GERMANY", DE | DAZN BAR 2 UHD
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/186668
+
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/germanynew/DAZN.png" group-title="DE | HD GERMANY", DE | DAZN BAR 2
+http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/2938
+
+
+
+
 #EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="US | USA 4K SPORT", USA | NBA
 http://magz.abcdxyz.one:80/qfy2tXuaQ2X3/86l7xqiKxO/191875
 
