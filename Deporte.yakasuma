@@ -2,6 +2,96 @@
 
 
 
+#EXTINF:-1,DirecTV Sports PR
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1,Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+
+#EXTINF:-1,Canal 11 Internacional | PT
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
+
+#EXTINF:-1,True Premiere| UK
+http://4digital.ddns.net:11222/ts/0
+
+#EXTINF:-1,ARRYADIA TV | AR
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1,Bek Sports West | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+#EXTINF:-1,Bek Sports East | US
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1,Tennis Channel | US
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Tennis Channel | US
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
+#EXTINF:-1,ONE GOLF | US
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ONE GOLF | US
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1, Rugby World TV | US
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+
+#EXTINF:-1,Fox Sports News | US
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1,Red Bull TV | US
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,Eurosport 2 | FR
+http://212.102.60.80/Eurosport2/index.m3u8
+
+#EXTINF:-1,Qaz Sports
+http://92.46.127.146:8080/qazsport/index.m3u8
+
+#EXTINF:-1,Players Tv
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+
+#EXTINF:-1,STADIUM | US
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1,STADIUM | US
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+
+#EXTINF:-1,STADIUM | US
+http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+
+#EXTINF:-1,Trace Sport Stars | AU
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Edge Sport | US
+https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,Edge Sport | US
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Ski TV | US
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+
+#EXTINF:-1,SWISS SPORT TV | US
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+
+#EXTINF:-1,Tvri Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Tv 2 Sporten
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1,Motor Sport | US
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+
 
 
 
